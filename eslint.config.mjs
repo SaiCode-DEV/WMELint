@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import globals from "globals";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
